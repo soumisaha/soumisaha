@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @soumisaha
-- 👀 I’m interested in AI, Web Development
+- 👀 I’m interested in Web Development, Blockchain
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on anything related to AI, IT
+- 💞️ I’m looking to collaborate on anything related to IT
 - 📫 How to reach me LinkedIn, Twitter
 
 <!---
