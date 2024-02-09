@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soumisaha
-- 👀 I’m interested in Web Development, Blockchain
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Java, Back End Web Development
 - 💞️ I’m looking to collaborate on anything related to IT
 - 📫 How to reach me LinkedIn, Twitter
 
